@@ -37,8 +37,8 @@
   "explanation": "간단한 한줄 소개 (필수, string)",
   "companyName": "회사 이름 (필수, string)",
   "companyLocation": "회사 주소(필수 - 도로명 주소, string)",
-  "position": "직무 (필수 - 하단의 position-type을 보고 작성해주세요. ,string)"
-
+  "position": "직무 (필수 - 하단의 position-type을 보고 작성해주세요, string)"
+}
 ```
 
 ## position-type
